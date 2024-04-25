@@ -1,4 +1,4 @@
-### Hi I'm Surya 👋
+### Hi I'm Rohith Surya 👋
 
 **My portfolio URL: https://rohithsuryapodugu.netlify.app/**
 
